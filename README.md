@@ -1,6 +1,6 @@
 # MMO Game
 
-Final projectfrom course ZProger Python OOP - from scratch to pro
+Final project from course ZProger Python OOP - from scratch to pro
 
 #### Stack:
 
