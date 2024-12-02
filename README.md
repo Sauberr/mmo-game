@@ -2,7 +2,6 @@
 
 This exciting mini-MMO game written in Python using object-oriented programming (OOP) invites you to an exciting adventure. Immerse yourself in a dynamic world where you can interact with other players, fight formidable opponents and explore enchanting landscapes.  The game clearly demonstrates the power of OOP and the elegance of Python, bringing the game world to life through well-defined objects and interactions. This project, created as part of the ZProger Python OOP course, serves as a prime example of how to create a fun and interactive game using the principles of OOP in Python.
 
-Translated with DeepL.com (free version)
 
 #### Stack:
 
